@@ -1,29 +1,52 @@
-# Expense Report Analysis
+# Department Expense Monitoring Dashboard
 
 ## Project Overview
 
-This project analyzes expense data using Microsoft Excel.
+This project is an Excel-based dashboard designed to monitor departmental spending and compare actual expenses against allocated budgets.
 
-## Files Included
+## Objectives
 
-### Original_Expense_Data.xlsx
-Raw dataset before analysis.
+- Track departmental expenses
+- Compare expenses with budgets
+- Identify overspending departments
+- Support management decision-making
 
-### Expense_Report_Analysis.xlsx
-Contains:
+## Tools Used
+
+- Microsoft Excel
 - Pivot Tables
-- Charts
 - Conditional Formatting
-- Budget Analysis
+- KPI Metrics
+- Clustered Column Chart
+- Treemap Chart
 
-## Findings
+## Dashboard Features
 
-- High spending categories were identified.
-- Budget performance was analyzed.
-- Spending trends were visualized.
+### Key Performance Indicators (KPIs)
+
+- Total Expenses
+- Total Budget
+- Overspent Departments
+- Under Budget Departments
+
+### Visualizations
+
+- Expenses vs Budget by Department
+- Expense Distribution by Department (Treemap)
+
+## Key Insights
+
+- Total Expenses: $47,200
+- Total Budget: $46,500
+- Overall Variance: $700 Overspend
 
 ## Recommendations
 
-- Monitor categories exceeding budget.
-- Review recurring high expenses.
-- Improve budget planning.
+- Monitor departments that consistently exceed budget.
+- Conduct monthly budget reviews.
+- Use dashboard insights for cost-control decisions.
+
+
+## Author
+
+Dr adewale
