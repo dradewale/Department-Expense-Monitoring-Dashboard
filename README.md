@@ -38,7 +38,6 @@ This project is an Excel-based dashboard designed to monitor departmental spendi
 
 - Total Expenses: $47,200
 - Total Budget: $46,500
-- Overall Variance: $700 Overspend
 
 ## Recommendations
 
